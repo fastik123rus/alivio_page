@@ -54,6 +54,12 @@
     align-self: end;
 }
 
+@media (max-width: 1250px) {
+    .card {
+        margin: 100px 0 100px 0;
+    }
+}
+
 @media (max-width: 480px) {
     .card {
         height: 780px;
